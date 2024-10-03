@@ -34,7 +34,7 @@ There is a strong correlation between the Open, High, Low, and Close prices.
 Trading volume has a moderate correlation with Bitcoin prices.
 The Bitcoin price has shown significant fluctuations, with large spikes in the closing price over time.
 Model
-We used a Linear Regression model to predict the closing price. The input features for the model were:
+I used a Linear Regression model to predict the closing price. The input features for the model were:
 
 Open price
 High price

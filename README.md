@@ -5,6 +5,7 @@ This project focuses on building a machine learning model to predict the closing
 
 
 Project Overview
+
 The main objective of this project is to predict the closing price of Bitcoin based on historical price data and other financial indicators. We use data from a given training dataset, conduct extensive exploratory data analysis, and train a Linear Regression model. The performance of the model is then tested on a separate test dataset.
 
 Dataset

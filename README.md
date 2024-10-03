@@ -2,18 +2,7 @@
 Bitcoin Price Prediction Model
 This project focuses on building a machine learning model to predict the closing price of Bitcoin using historical price data. I perform exploratory data analysis (EDA) on the dataset and develop a regression model (Linear Regression) to predict the closing price based on other factors such as the opening price, highest price, lowest price, trading volume, and market capitalization.
 
-Table of Contents
-Project Overview
-Dataset
-Exploratory Data Analysis (EDA)
-Model
-Performance
-Requirements
-Installation
-Usage
-Results
-Conclusion
-Future Work
+
 
 Project Overview
 The main objective of this project is to predict the closing price of Bitcoin based on historical price data and other financial indicators. We use data from a given training dataset, conduct extensive exploratory data analysis, and train a Linear Regression model. The performance of the model is then tested on a separate test dataset.

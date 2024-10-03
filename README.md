@@ -63,6 +63,7 @@ seaborn
 Jupyter Notebook (optional, for running in an interactive environment)
 
 Results
+
 The Linear Regression model successfully predicted the closing prices of Bitcoin with an R² score of 0.9503 on the test dataset. The model accurately captured the overall trends in Bitcoin prices, but could be further optimized to reduce the mean squared error.
 
 Sample predictions:
@@ -75,8 +76,11 @@ Conclusion
 The project demonstrated that a simple Linear Regression model can be effective in predicting Bitcoin prices based on historical data. However, there is room for improvement, particularly in reducing prediction error during high-volatility periods.
 
 Future Work
+
 To further improve the model, the following steps could be taken:
 
 Experimenting with more complex models like Random Forests or Gradient Boosting.
+
 Incorporating additional features such as sentiment analysis from news or social media.
+
 Analyzing the impact of external factors like market regulations or major economic events on Bitcoin prices.
